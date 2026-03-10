@@ -8,11 +8,17 @@ Estou cusando Análise e Desenvolvimento de Sistemas no SENAI São Caetano do Su
 ## 🚀 Tecnologias e Ferramentas
 
   ☕ Java
+  
   🌱 Spring Boot
+  
   🐳 Docker
+  
   🔧 Git e controle de versão
+  
   🧱 Programação Orientada a Objetos (POO)
+  
   🗄️ SQL / Bancos de dados relacionais
+  
   🌐 HTML / 🎨 CSS
 
 ## 📚 Atualmente estudando
