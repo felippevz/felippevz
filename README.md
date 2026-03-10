@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Felippe!
 
-<!--
-**felippevz/felippevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Interessado em construir aplicações robustas e bem estruturadas. Tenho experiência pessoal com desenvolvimento backend utilizando Spring Boot, criação de APIs e boas práticas de programação orientada a objetos.
+Procurando minha primeira oportunidade na área de desenvolvimento de software.
 
-Here are some ideas to get you started:
+Estou cusando Análise e Desenvolvimento de Sistemas no SENAI São Caetano do Sul!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+  ☕ Java
+  🌱 Spring Boot
+  🐳 Docker
+  🔧 Git e controle de versão
+  🧱 Programação Orientada a Objetos (POO)
+  🗄️ SQL / Bancos de dados relacionais
+  🌐 HTML / 🎨 CSS
+
+## 📚 Atualmente estudando
+
+- Estruturas de dados em Java
+- Desenvolvimento de APIs
+- Arquitetura de software
+- Testes automatizados
