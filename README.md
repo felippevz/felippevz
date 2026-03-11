@@ -10,8 +10,6 @@ Estou cusando Análise e Desenvolvimento de Sistemas no SENAI São Caetano do Su
   
   🌱 Spring Boot
   
-  🐳 Docker
-  
   🔧 Git e controle de versão
   
   🧱 Programação Orientada a Objetos (POO)
@@ -22,6 +20,7 @@ Estou cusando Análise e Desenvolvimento de Sistemas no SENAI São Caetano do Su
 
 ## 📚 Atualmente estudando
 
+- Docker
 - Estruturas de dados em Java
 - Desenvolvimento de APIs
 - Arquitetura de software
