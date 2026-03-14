@@ -19,6 +19,11 @@ Estou cusando Análise e Desenvolvimento de Sistemas no SENAI São Caetano do Su
   
   🌐 HTML / 🎨 CSS
 
+
+<img align="center" alt="GitHub Stats" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippevz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
+
 ## 📚 Atualmente estudando
 
 - Docker
