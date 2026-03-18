@@ -11,7 +11,7 @@ Estou cursando Análise e Desenvolvimento de Sistemas no SENAI São Caetano do S
   
   🌱 Spring Boot
   
-  🔧 Git e controle de versão
+  🔧 Git/GitHub
   
   🧱 Programação Orientada a Objetos (POO)
   
