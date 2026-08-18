@@ -20,9 +20,18 @@ Estou cursando Análise e Desenvolvimento de Sistemas no SENAI São Caetano do S
   🌐 HTML / 🎨 CSS
 
 
-<img align="center" alt="GitHub Stats" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippevz&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-/>
+<br>
+
+<p align="center">
+  <img width="45%" src="https://raw.githubusercontent.com/felippevz/github-stats/generated/overview.svg" alt="Estatísticas do GitHub"/>
+  <img width="45%" src="https://raw.githubusercontent.com/felippevz/github-stats/generated/languages.svg" alt="Linguagens mais usadas"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.demolab.com/?user=felippevz&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+</p>
+
+<br>
 
 ## 📚 Atualmente estudando
 
